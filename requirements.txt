@@ -1,0 +1,2 @@
+git+https://github.com/twyleg/Threedeploy.git@bugfix/updated_thingiverse_rest_api_calls
+
