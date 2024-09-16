@@ -1,0 +1,18 @@
+{
+    "name": "Tomlov Microscope DM602 Ring Light Holder and Objective Protector",
+    "tags": [
+        "Tomlov",
+        "Microscope",
+        "DM602",
+        "Ring Light Holder",
+        "Objective Protector"
+    ],
+    "thingiverse_id": 6462122,
+    "thingiverse_description": "I got my hands on a Tomlov DM602 digital microscope recently. Haven´t had the time to use it extensively for soldering so far but especially the flex arm makes it a real eye candy on my desk. But I also discovered a few flaws immediately. The ring light attached rather poorly with three screws and there is no soldering dust protection for the lens. I picked up this idea (https://www.thingiverse.com/thing:6203074) and added a way to use the objective screws to attach it. I also added a little shield for the lens. Don´t get confused that I used a rectangle shaped acrylic glass plate instead of a round one. I had the rectangle one lying around and decided to use it for this purpose. The next time I order some acrylic glass from a professional supplier I might get a round one that fits perfectly.",
+    "thingiverse_instructions": "Printable without support.",
+    "thingiverse_creator": "twyleg",
+    "thingiverse_is_wip": false,
+    "thingiverse_license": "cc-sa",
+    "thingiverse_category": "3D Printing",
+    "thingiverse_is_published": true
+}

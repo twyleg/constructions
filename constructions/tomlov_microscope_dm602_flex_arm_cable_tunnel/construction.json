@@ -1,0 +1,18 @@
+{
+    "name": "Tomlov Microscope DM602 Flex Arm Cable Tunnel",
+    "tags": [
+        "Tomlov",
+        "Microscope",
+        "DM602",
+        "Flex Arm",
+        "Cable Tunnel"
+    ],
+    "thingiverse_id": 6462141,
+    "thingiverse_description": "I got my hands on a Tomlov DM602 digital microscope recently. Haven´t had the time to use it extensively for soldering so far but especially the flex arm makes it a real eye candy on my desk. I designed a simple cable tunnel for the flex arm to improve the cable management and make it look even better and cleaner. Due to the limited printing area in Z-Direction I split it up into two parts per segment. You might want to adjust the Z-Axis and scale/split it up it for your demands.",
+    "thingiverse_instructions": "Printable without support. Adjust Z-Axis for your demands.",
+    "thingiverse_creator": "twyleg",
+    "thingiverse_is_wip": false,
+    "thingiverse_license": "cc-sa",
+    "thingiverse_category": "3D Printing",
+    "thingiverse_is_published": true
+}
