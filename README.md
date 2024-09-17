@@ -4,7 +4,7 @@
 <table>
   <tr>
     <th>Construction</th>
-    <th>Preview</th>
+    <th style="width:50%">>Preview</th>
   </tr>
   <tr>
     <td>
@@ -20,7 +20,7 @@
         </ul>
     </td>
     <td>
-        <a href="bosch_battery_holder_ikea_skadis/None"><img src="bosch_battery_holder_ikea_skadis/None" alt="bosch_battery_holder_ikea_skadis/None" width="400"/></a>
+    <a href="bosch_battery_holder_ikea_skadis/README.md"><img src=".resources/img/no_image_available.png" alt="no image available" width="400"/></a>
     </td>
   </tr>
   <tr>
@@ -33,7 +33,7 @@
         </ul>
     </td>
     <td>
-        <a href="coffee_machine_skates/None"><img src="coffee_machine_skates/None" alt="coffee_machine_skates/None" width="400"/></a>
+    <a href="coffee_machine_skates/README.md"><img src=".resources/img/no_image_available.png" alt="no image available" width="400"/></a>
     </td>
   </tr>
   <tr>
@@ -47,7 +47,7 @@
         </ul>
     </td>
     <td>
-        <a href="coin_battery_storage/img/00_poc.jpg"><img src="coin_battery_storage/img/00_poc.jpg" alt="coin_battery_storage/img/00_poc.jpg" width="400"/></a>
+    <a href="coin_battery_storage/README.md"><img src="coin_battery_storage/img/00_poc.jpg" alt="coin_battery_storage/img/00_poc.jpg" width="400"/></a>
     </td>
   </tr>
   <tr>
@@ -61,7 +61,7 @@
         </ul>
     </td>
     <td>
-        <a href="filament_spoolholder/img/00_poc.jpg"><img src="filament_spoolholder/img/00_poc.jpg" alt="filament_spoolholder/img/00_poc.jpg" width="400"/></a>
+    <a href="filament_spoolholder/README.md"><img src="filament_spoolholder/img/00_poc.jpg" alt="filament_spoolholder/img/00_poc.jpg" width="400"/></a>
     </td>
   </tr>
   <tr>
@@ -75,7 +75,7 @@
         </ul>
     </td>
     <td>
-        <a href="first_aid_kit_holder/img/00_poc.jpg"><img src="first_aid_kit_holder/img/00_poc.jpg" alt="first_aid_kit_holder/img/00_poc.jpg" width="400"/></a>
+    <a href="first_aid_kit_holder/README.md"><img src="first_aid_kit_holder/img/00_poc.jpg" alt="first_aid_kit_holder/img/00_poc.jpg" width="400"/></a>
     </td>
   </tr>
   <tr>
@@ -93,7 +93,7 @@
         </ul>
     </td>
     <td>
-        <a href="ikea_alex_drawer_inlets/None"><img src="ikea_alex_drawer_inlets/None" alt="ikea_alex_drawer_inlets/None" width="400"/></a>
+    <a href="ikea_alex_drawer_inlets/README.md"><img src=".resources/img/no_image_available.png" alt="no image available" width="400"/></a>
     </td>
   </tr>
   <tr>
@@ -106,7 +106,7 @@
         </ul>
     </td>
     <td>
-        <a href="ikea_skadis/None"><img src="ikea_skadis/None" alt="ikea_skadis/None" width="400"/></a>
+    <a href="ikea_skadis/README.md"><img src=".resources/img/no_image_available.png" alt="no image available" width="400"/></a>
     </td>
   </tr>
   <tr>
@@ -123,7 +123,7 @@
         </ul>
     </td>
     <td>
-        <a href="makita_battery_holder_ikea_skadis/None"><img src="makita_battery_holder_ikea_skadis/None" alt="makita_battery_holder_ikea_skadis/None" width="400"/></a>
+    <a href="makita_battery_holder_ikea_skadis/README.md"><img src=".resources/img/no_image_available.png" alt="no image available" width="400"/></a>
     </td>
   </tr>
   <tr>
@@ -142,7 +142,7 @@
         </ul>
     </td>
     <td>
-        <a href="makita_vacuum_holder/img/00_poc.jpg"><img src="makita_vacuum_holder/img/00_poc.jpg" alt="makita_vacuum_holder/img/00_poc.jpg" width="400"/></a>
+    <a href="makita_vacuum_holder/README.md"><img src="makita_vacuum_holder/img/00_poc.jpg" alt="makita_vacuum_holder/img/00_poc.jpg" width="400"/></a>
     </td>
   </tr>
   <tr>
@@ -157,7 +157,7 @@
         </ul>
     </td>
     <td>
-        <a href="market_stall_sun_roof/None"><img src="market_stall_sun_roof/None" alt="market_stall_sun_roof/None" width="400"/></a>
+    <a href="market_stall_sun_roof/README.md"><img src=".resources/img/no_image_available.png" alt="no image available" width="400"/></a>
     </td>
   </tr>
   <tr>
@@ -172,7 +172,7 @@
         </ul>
     </td>
     <td>
-        <a href="pcb_soldering_holder_ikea_skadis/None"><img src="pcb_soldering_holder_ikea_skadis/None" alt="pcb_soldering_holder_ikea_skadis/None" width="400"/></a>
+    <a href="pcb_soldering_holder_ikea_skadis/README.md"><img src=".resources/img/no_image_available.png" alt="no image available" width="400"/></a>
     </td>
   </tr>
   <tr>
@@ -186,7 +186,7 @@
         </ul>
     </td>
     <td>
-        <a href="raspberry_pi_display_stands/img/00_poc.jpg"><img src="raspberry_pi_display_stands/img/00_poc.jpg" alt="raspberry_pi_display_stands/img/00_poc.jpg" width="400"/></a>
+    <a href="raspberry_pi_display_stands/README.md"><img src="raspberry_pi_display_stands/img/00_poc.jpg" alt="raspberry_pi_display_stands/img/00_poc.jpg" width="400"/></a>
     </td>
   </tr>
   <tr>
@@ -200,7 +200,7 @@
         </ul>
     </td>
     <td>
-        <a href="raspberry_pi_fan_holder/img/00_poc.jpg"><img src="raspberry_pi_fan_holder/img/00_poc.jpg" alt="raspberry_pi_fan_holder/img/00_poc.jpg" width="400"/></a>
+    <a href="raspberry_pi_fan_holder/README.md"><img src="raspberry_pi_fan_holder/img/00_poc.jpg" alt="raspberry_pi_fan_holder/img/00_poc.jpg" width="400"/></a>
     </td>
   </tr>
   <tr>
@@ -217,7 +217,7 @@
         </ul>
     </td>
     <td>
-        <a href="revell_paint_storage/img/00_poc.jpg"><img src="revell_paint_storage/img/00_poc.jpg" alt="revell_paint_storage/img/00_poc.jpg" width="400"/></a>
+    <a href="revell_paint_storage/README.md"><img src="revell_paint_storage/img/00_poc.jpg" alt="revell_paint_storage/img/00_poc.jpg" width="400"/></a>
     </td>
   </tr>
   <tr>
@@ -231,7 +231,7 @@
         </ul>
     </td>
     <td>
-        <a href="spanner_rack/None"><img src="spanner_rack/None" alt="spanner_rack/None" width="400"/></a>
+    <a href="spanner_rack/README.md"><img src=".resources/img/no_image_available.png" alt="no image available" width="400"/></a>
     </td>
   </tr>
   <tr>
@@ -245,7 +245,7 @@
         </ul>
     </td>
     <td>
-        <a href="spirit_level_holder/img/00_poc.jpg"><img src="spirit_level_holder/img/00_poc.jpg" alt="spirit_level_holder/img/00_poc.jpg" width="400"/></a>
+    <a href="spirit_level_holder/README.md"><img src="spirit_level_holder/img/00_poc.jpg" alt="spirit_level_holder/img/00_poc.jpg" width="400"/></a>
     </td>
   </tr>
   <tr>
@@ -262,7 +262,7 @@
         </ul>
     </td>
     <td>
-        <a href="tomlov_microscope_dm602_flex_arm_cable_tunnel/img/00_poc.jpg"><img src="tomlov_microscope_dm602_flex_arm_cable_tunnel/img/00_poc.jpg" alt="tomlov_microscope_dm602_flex_arm_cable_tunnel/img/00_poc.jpg" width="400"/></a>
+    <a href="tomlov_microscope_dm602_flex_arm_cable_tunnel/README.md"><img src="tomlov_microscope_dm602_flex_arm_cable_tunnel/img/00_poc.jpg" alt="tomlov_microscope_dm602_flex_arm_cable_tunnel/img/00_poc.jpg" width="400"/></a>
     </td>
   </tr>
   <tr>
@@ -279,7 +279,7 @@
         </ul>
     </td>
     <td>
-        <a href="tomlov_microscope_dm602_ring_light_holder_and_objective_protector/img/00_poc.jpg"><img src="tomlov_microscope_dm602_ring_light_holder_and_objective_protector/img/00_poc.jpg" alt="tomlov_microscope_dm602_ring_light_holder_and_objective_protector/img/00_poc.jpg" width="400"/></a>
+    <a href="tomlov_microscope_dm602_ring_light_holder_and_objective_protector/README.md"><img src="tomlov_microscope_dm602_ring_light_holder_and_objective_protector/img/00_poc.jpg" alt="tomlov_microscope_dm602_ring_light_holder_and_objective_protector/img/00_poc.jpg" width="400"/></a>
     </td>
   </tr>
 </table>

@@ -1,9 +1,0 @@
-# Threedeploy specific
-
-CreationResponse.json
-PatchResponse.json
-*.backup_*
-InitialCreation
-ThingURL.txt
-ThingID.txt
-ApiToken.txt
