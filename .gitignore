@@ -1,4 +1,5 @@
 venv/
 **/.logs/
 
+**/*.FCBak
 **/*.FCStd1
