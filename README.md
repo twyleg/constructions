@@ -8,6 +8,18 @@
   </tr>
   <tr>
     <td>
+        <b>Name:</b> <a href="blister_hanger/README.md">blister_hanger</a></br>
+        <b>Description:</b> TODO.</br>
+        <b>Tags:</b>
+        <ul>
+        </ul>
+    </td>
+    <td>
+    <a href="blister_hanger/README.md"><img src=".resources/img/no_image_available.png" alt="no image available" width="400"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
         <b>Name:</b> <a href="bosch_battery_holder_ikea_skadis/README.md">Bosch Battery Holder for IKEA Skadis</a></br>
         <b>Description:</b> Battery holder magazine vor Bosch 12v batteries.</br>
         <b>Tags:</b>
@@ -250,6 +262,22 @@
   </tr>
   <tr>
     <td>
+        <b>Name:</b> <a href="starship/README.md">Starship</a></br>
+        <b>Description:</b> Starship spaceship lantern</br>
+        <b>Tags:</b>
+        <ul>
+            <li><a href="https://www.thingiverse.com/tag:Toy"><img src="https://img.shields.io/badge/Toy-024c73" alt="Toy"/></a></li>
+            <li><a href="https://www.thingiverse.com/tag:Sharship"><img src="https://img.shields.io/badge/Sharship-024c73" alt="Sharship"/></a></li>
+            <li><a href="https://www.thingiverse.com/tag:SpaceX"><img src="https://img.shields.io/badge/SpaceX-024c73" alt="SpaceX"/></a></li>
+            <li><a href="https://www.thingiverse.com/tag:Lantern"><img src="https://img.shields.io/badge/Lantern-024c73" alt="Lantern"/></a></li>
+        </ul>
+    </td>
+    <td>
+    <a href="starship/README.md"><img src="starship/img/PXL_20241031_081540990.jpg" alt="starship/img/PXL_20241031_081540990.jpg" width="400"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
         <b>Name:</b> <a href="tomlov_microscope_dm602_flex_arm_cable_tunnel/README.md">Tomlov Microscope DM602 Flex Arm Cable Tunnel</a></br>
         <b>Description:</b> I got my hands on a Tomlov DM602 digital microscope recently. Haven´t had the time to use it extensively for soldering so far but especially the flex arm makes it a real eye candy on my desk. I designed a simple cable tunnel for the flex arm to improve the cable management and make it look even better and cleaner. Due to the limited printing area in Z-Direction I split it up into two parts per segment. You might want to adjust the Z-Axis and scale/split it up it for your demands.</br>
         <b>Tags:</b>
@@ -280,6 +308,31 @@
     </td>
     <td>
     <a href="tomlov_microscope_dm602_ring_light_holder_and_objective_protector/README.md"><img src="tomlov_microscope_dm602_ring_light_holder_and_objective_protector/img/00_poc.jpg" alt="tomlov_microscope_dm602_ring_light_holder_and_objective_protector/img/00_poc.jpg" width="400"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+        <b>Name:</b> <a href="utility_room/README.md">Utility room</a></br>
+        <b>Description:</b> Room plan of my utility room</br>
+        <b>Tags:</b>
+        <ul>
+            <li><a href="https://www.thingiverse.com/tag:Room"><img src="https://img.shields.io/badge/Room-024c73" alt="Room"/></a></li>
+        </ul>
+    </td>
+    <td>
+    <a href="utility_room/README.md"><img src=".resources/img/no_image_available.png" alt="no image available" width="400"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+        <b>Name:</b> <a href="vacuum_adapter/README.md">vacuum_adapter</a></br>
+        <b>Description:</b> TODO.</br>
+        <b>Tags:</b>
+        <ul>
+        </ul>
+    </td>
+    <td>
+    <a href="vacuum_adapter/README.md"><img src=".resources/img/no_image_available.png" alt="no image available" width="400"/></a>
     </td>
   </tr>
 </table>

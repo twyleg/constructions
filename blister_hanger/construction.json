@@ -1,12 +1,10 @@
 {
-    "publish": false,
-    "name": "Utility room",
+    "name": "blister_hanger",
     "tags": [
-        "Room"
     ],
     "thingiverse_id": 0,
-    "thingiverse_description": "Room plan of my utility room",
-    "thingiverse_instructions": "Not intended for printing.",
+    "thingiverse_description": "TODO.",
+    "thingiverse_instructions": "Printable without support.",
     "thingiverse_creator": "twyleg",
     "thingiverse_is_wip": false,
     "thingiverse_license": "cc-sa",
