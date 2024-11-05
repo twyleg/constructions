@@ -8,6 +8,18 @@
   </tr>
   <tr>
     <td>
+        <b>Name:</b> <a href="bicycle_shed/README.md">bicycle_shed</a></br>
+        <b>Description:</b> TODO.</br>
+        <b>Tags:</b>
+        <ul>
+        </ul>
+    </td>
+    <td>
+    <a href="bicycle_shed/README.md"><img src="bicycle_shed/img/PXL_20240917_065043201.jpg" alt="bicycle_shed/img/PXL_20240917_065043201.jpg" width="400"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
         <b>Name:</b> <a href="blister_hanger/README.md">blister_hanger</a></br>
         <b>Description:</b> TODO.</br>
         <b>Tags:</b>
@@ -15,7 +27,7 @@
         </ul>
     </td>
     <td>
-    <a href="blister_hanger/README.md"><img src=".resources/img/no_image_available.png" alt="no image available" width="400"/></a>
+    <a href="blister_hanger/README.md"><img src="blister_hanger/img/poc_0.jpg" alt="blister_hanger/img/poc_0.jpg" width="400"/></a>
     </td>
   </tr>
   <tr>
@@ -135,7 +147,7 @@
         </ul>
     </td>
     <td>
-    <a href="makita_battery_holder_ikea_skadis/README.md"><img src=".resources/img/no_image_available.png" alt="no image available" width="400"/></a>
+    <a href="makita_battery_holder_ikea_skadis/README.md"><img src="makita_battery_holder_ikea_skadis/img/poc_0.jpg" alt="makita_battery_holder_ikea_skadis/img/poc_0.jpg" width="400"/></a>
     </td>
   </tr>
   <tr>
@@ -184,7 +196,7 @@
         </ul>
     </td>
     <td>
-    <a href="pcb_soldering_holder_ikea_skadis/README.md"><img src=".resources/img/no_image_available.png" alt="no image available" width="400"/></a>
+    <a href="pcb_soldering_holder_ikea_skadis/README.md"><img src="pcb_soldering_holder_ikea_skadis/img/poc_0.jpg" alt="pcb_soldering_holder_ikea_skadis/img/poc_0.jpg" width="400"/></a>
     </td>
   </tr>
   <tr>
@@ -273,7 +285,7 @@
         </ul>
     </td>
     <td>
-    <a href="starship/README.md"><img src="starship/img/PXL_20241031_081540990.jpg" alt="starship/img/PXL_20241031_081540990.jpg" width="400"/></a>
+    <a href="starship/README.md"><img src="starship/img/poc_0.jpg" alt="starship/img/poc_0.jpg" width="400"/></a>
     </td>
   </tr>
   <tr>
@@ -332,7 +344,7 @@
         </ul>
     </td>
     <td>
-    <a href="vacuum_adapter/README.md"><img src=".resources/img/no_image_available.png" alt="no image available" width="400"/></a>
+    <a href="vacuum_adapter/README.md"><img src="vacuum_adapter/img/poc_0.jpg" alt="vacuum_adapter/img/poc_0.jpg" width="400"/></a>
     </td>
   </tr>
 </table>

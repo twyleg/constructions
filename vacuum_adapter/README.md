@@ -3,10 +3,16 @@
 [https://www.thingiverse.com/thing:0](https://www.thingiverse.com/thing:0)
 
 
+![thumbnail image](img/poc_0.jpg)
+
 
 TODO.
 
 ## Images
+[<img src="img/poc_0.jpg" alt="img/poc_0.jpg" width="200"/>](img/poc_0.jpg)
+[<img src="img/poc_1.jpg" alt="img/poc_1.jpg" width="200"/>](img/poc_1.jpg)
+[<img src="img/poc_2.jpg" alt="img/poc_2.jpg" width="200"/>](img/poc_2.jpg)
+[<img src="img/poc_3.jpg" alt="img/poc_3.jpg" width="200"/>](img/poc_3.jpg)
 
 ## Source - Files
 

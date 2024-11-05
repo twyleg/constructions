@@ -7,24 +7,24 @@
 [https://www.thingiverse.com/thing:0](https://www.thingiverse.com/thing:0)
 
 
-![thumbnail image](img/PXL_20241031_081540990.jpg)
+![thumbnail image](img/poc_0.jpg)
 
 
 Starship spaceship lantern
 
 ## Images
-[<img src="img/PXL_20241031_081540990.jpg" alt="img/PXL_20241031_081540990.jpg" width="200"/>](img/PXL_20241031_081540990.jpg)
-[<img src="img/PXL_20241031_081559103.jpg" alt="img/PXL_20241031_081559103.jpg" width="200"/>](img/PXL_20241031_081559103.jpg)
-[<img src="img/PXL_20241031_081604118.jpg" alt="img/PXL_20241031_081604118.jpg" width="200"/>](img/PXL_20241031_081604118.jpg)
-[<img src="img/PXL_20241031_081608914.jpg" alt="img/PXL_20241031_081608914.jpg" width="200"/>](img/PXL_20241031_081608914.jpg)
-[<img src="img/PXL_20241031_081629024.jpg" alt="img/PXL_20241031_081629024.jpg" width="200"/>](img/PXL_20241031_081629024.jpg)
-[<img src="img/PXL_20241102_114205737.jpg" alt="img/PXL_20241102_114205737.jpg" width="200"/>](img/PXL_20241102_114205737.jpg)
-[<img src="img/PXL_20241102_114317943.jpg" alt="img/PXL_20241102_114317943.jpg" width="200"/>](img/PXL_20241102_114317943.jpg)
-[<img src="img/PXL_20241102_160922841.jpg" alt="img/PXL_20241102_160922841.jpg" width="200"/>](img/PXL_20241102_160922841.jpg)
-[<img src="img/PXL_20241102_160932313.jpg" alt="img/PXL_20241102_160932313.jpg" width="200"/>](img/PXL_20241102_160932313.jpg)
-[<img src="img/PXL_20241102_160936228.jpg" alt="img/PXL_20241102_160936228.jpg" width="200"/>](img/PXL_20241102_160936228.jpg)
-[<img src="img/PXL_20241102_160938557.jpg" alt="img/PXL_20241102_160938557.jpg" width="200"/>](img/PXL_20241102_160938557.jpg)
-[<img src="img/PXL_20241102_163111868.jpg" alt="img/PXL_20241102_163111868.jpg" width="200"/>](img/PXL_20241102_163111868.jpg)
+[<img src="img/poc_0.jpg" alt="img/poc_0.jpg" width="200"/>](img/poc_0.jpg)
+[<img src="img/poc_1.jpg" alt="img/poc_1.jpg" width="200"/>](img/poc_1.jpg)
+[<img src="img/poc_10.jpg" alt="img/poc_10.jpg" width="200"/>](img/poc_10.jpg)
+[<img src="img/poc_11.jpg" alt="img/poc_11.jpg" width="200"/>](img/poc_11.jpg)
+[<img src="img/poc_2.jpg" alt="img/poc_2.jpg" width="200"/>](img/poc_2.jpg)
+[<img src="img/poc_3.jpg" alt="img/poc_3.jpg" width="200"/>](img/poc_3.jpg)
+[<img src="img/poc_4.jpg" alt="img/poc_4.jpg" width="200"/>](img/poc_4.jpg)
+[<img src="img/poc_5.jpg" alt="img/poc_5.jpg" width="200"/>](img/poc_5.jpg)
+[<img src="img/poc_6.jpg" alt="img/poc_6.jpg" width="200"/>](img/poc_6.jpg)
+[<img src="img/poc_7.jpg" alt="img/poc_7.jpg" width="200"/>](img/poc_7.jpg)
+[<img src="img/poc_8.jpg" alt="img/poc_8.jpg" width="200"/>](img/poc_8.jpg)
+[<img src="img/poc_9.jpg" alt="img/poc_9.jpg" width="200"/>](img/poc_9.jpg)
 
 ## Source - Files
 
