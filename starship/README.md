@@ -17,6 +17,10 @@ Starship spaceship lantern
 [<img src="img/poc_1.jpg" alt="img/poc_1.jpg" width="200"/>](img/poc_1.jpg)
 [<img src="img/poc_10.jpg" alt="img/poc_10.jpg" width="200"/>](img/poc_10.jpg)
 [<img src="img/poc_11.jpg" alt="img/poc_11.jpg" width="200"/>](img/poc_11.jpg)
+[<img src="img/poc_12.jpg" alt="img/poc_12.jpg" width="200"/>](img/poc_12.jpg)
+[<img src="img/poc_13.jpg" alt="img/poc_13.jpg" width="200"/>](img/poc_13.jpg)
+[<img src="img/poc_14.jpg" alt="img/poc_14.jpg" width="200"/>](img/poc_14.jpg)
+[<img src="img/poc_15.jpg" alt="img/poc_15.jpg" width="200"/>](img/poc_15.jpg)
 [<img src="img/poc_2.jpg" alt="img/poc_2.jpg" width="200"/>](img/poc_2.jpg)
 [<img src="img/poc_3.jpg" alt="img/poc_3.jpg" width="200"/>](img/poc_3.jpg)
 [<img src="img/poc_4.jpg" alt="img/poc_4.jpg" width="200"/>](img/poc_4.jpg)
@@ -32,6 +36,14 @@ Starship spaceship lantern
   <tr>
     <th>Source file</th>
     <th>Preview</th>
+  </tr>
+  <tr>
+    <td>
+        <a href="source/battery_case_holder.FCStd">source/battery_case_holder.FCStd</a>
+    </td>
+    <td>
+        <img src="img/previews/battery_case_holder.png" alt="img/previews/battery_case_holder.png" width="200"/>
+    </td>
   </tr>
   <tr>
     <td>
@@ -180,6 +192,7 @@ Starship spaceship lantern
 </table>
 
 ## 3D - Files
+* [3d/battery_case_holder-Body.stl](3d/battery_case_holder-Body.stl)
 * [3d/booster_front-Body.stl](3d/booster_front-Body.stl)
 * [3d/booster_grid_fin-Body.stl](3d/booster_grid_fin-Body.stl)
 * [3d/booster_main_body-Body.stl](3d/booster_main_body-Body.stl)

@@ -45,6 +45,14 @@ TODO.
   </tr>
   <tr>
     <td>
+        <a href="source/assembly_v3.FCStd">source/assembly_v3.FCStd</a>
+    </td>
+    <td>
+        <img src="img/previews/assembly_v3.png" alt="img/previews/assembly_v3.png" width="200"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
         <a href="source/bar_1800.FCStd">source/bar_1800.FCStd</a>
     </td>
     <td>
@@ -109,6 +117,14 @@ TODO.
   </tr>
   <tr>
     <td>
+        <a href="source/bar_roof_70x70.FCStd">source/bar_roof_70x70.FCStd</a>
+    </td>
+    <td>
+        <img src="img/previews/bar_roof_70x70.png" alt="img/previews/bar_roof_70x70.png" width="200"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
         <a href="source/bar_roof_angled.FCStd">source/bar_roof_angled.FCStd</a>
     </td>
     <td>
@@ -133,10 +149,26 @@ TODO.
   </tr>
   <tr>
     <td>
+        <a href="source/bar_vertical_1500.FCStd">source/bar_vertical_1500.FCStd</a>
+    </td>
+    <td>
+        <img src="img/previews/bar_vertical_1500.png" alt="img/previews/bar_vertical_1500.png" width="200"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
         <a href="source/floor.FCStd">source/floor.FCStd</a>
     </td>
     <td>
         <img src="img/previews/floor.png" alt="img/previews/floor.png" width="200"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+        <a href="source/human.FCStd">source/human.FCStd</a>
+    </td>
+    <td>
+        <img src="img/previews/human.png" alt="img/previews/human.png" width="200"/>
     </td>
   </tr>
   <tr>
@@ -161,6 +193,14 @@ TODO.
     </td>
     <td>
         <img src="img/previews/side_element.png" alt="img/previews/side_element.png" width="200"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+        <a href="source/slate_cover_full.FCStd">source/slate_cover_full.FCStd</a>
+    </td>
+    <td>
+        <img src="img/previews/slate_cover_full.png" alt="img/previews/slate_cover_full.png" width="200"/>
     </td>
   </tr>
   <tr>

@@ -58,6 +58,14 @@ Room plan of my utility room
   </tr>
   <tr>
     <td>
+        <a href="source/profile.FCStd">source/profile.FCStd</a>
+    </td>
+    <td>
+        <img src="img/previews/profile.png" alt="img/previews/profile.png" width="200"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
         <a href="source/room.FCStd">source/room.FCStd</a>
     </td>
     <td>

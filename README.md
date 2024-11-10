@@ -171,6 +171,18 @@
   </tr>
   <tr>
     <td>
+        <b>Name:</b> <a href="malm_upgrade/README.md">malm_upgrade</a></br>
+        <b>Description:</b> TODO.</br>
+        <b>Tags:</b>
+        <ul>
+        </ul>
+    </td>
+    <td>
+    <a href="malm_upgrade/README.md"><img src=".resources/img/no_image_available.png" alt="no image available" width="400"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
         <b>Name:</b> <a href="market_stall_sun_roof/README.md">Toy market stall sun roof</a></br>
         <b>Description:</b> Sun roof for mechanics for my childrens toy market stall.</br>
         <b>Tags:</b>
