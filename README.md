@@ -122,6 +122,30 @@
   </tr>
   <tr>
     <td>
+        <b>Name:</b> <a href="ikea_alex_upgrade/README.md">ikea_alex_upgrade</a></br>
+        <b>Description:</b> TODO.</br>
+        <b>Tags:</b>
+        <ul>
+        </ul>
+    </td>
+    <td>
+    <a href="ikea_alex_upgrade/README.md"><img src=".resources/img/no_image_available.png" alt="no image available" width="400"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+        <b>Name:</b> <a href="ikea_malm_upgrade/README.md">malm_upgrade</a></br>
+        <b>Description:</b> TODO.</br>
+        <b>Tags:</b>
+        <ul>
+        </ul>
+    </td>
+    <td>
+    <a href="ikea_malm_upgrade/README.md"><img src=".resources/img/no_image_available.png" alt="no image available" width="400"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
         <b>Name:</b> <a href="ikea_skadis/README.md">IKEA Skadis template</a></br>
         <b>Description:</b> A model of the IKEA Skadis plate in 56x56 cm.</br>
         <b>Tags:</b>
@@ -167,18 +191,6 @@
     </td>
     <td>
     <a href="makita_vacuum_holder/README.md"><img src="makita_vacuum_holder/img/00_poc.jpg" alt="makita_vacuum_holder/img/00_poc.jpg" width="400"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-        <b>Name:</b> <a href="malm_upgrade/README.md">malm_upgrade</a></br>
-        <b>Description:</b> TODO.</br>
-        <b>Tags:</b>
-        <ul>
-        </ul>
-    </td>
-    <td>
-    <a href="malm_upgrade/README.md"><img src=".resources/img/no_image_available.png" alt="no image available" width="400"/></a>
     </td>
   </tr>
   <tr>
@@ -345,6 +357,18 @@
     </td>
     <td>
     <a href="utility_room/README.md"><img src=".resources/img/no_image_available.png" alt="no image available" width="400"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+        <b>Name:</b> <a href="utility_room_attic/README.md">utility_room_attic</a></br>
+        <b>Description:</b> TODO.</br>
+        <b>Tags:</b>
+        <ul>
+        </ul>
+    </td>
+    <td>
+    <a href="utility_room_attic/README.md"><img src=".resources/img/no_image_available.png" alt="no image available" width="400"/></a>
     </td>
   </tr>
   <tr>

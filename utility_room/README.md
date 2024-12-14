@@ -96,9 +96,36 @@ Room plan of my utility room
         <img src="img/previews/side_element_assembly.png" alt="img/previews/side_element_assembly.png" width="200"/>
     </td>
   </tr>
+  <tr>
+    <td>
+        <a href="source/soap_holder.FCStd">source/soap_holder.FCStd</a>
+    </td>
+    <td>
+        <img src="img/previews/soap_holder.png" alt="img/previews/soap_holder.png" width="200"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+        <a href="source/spray_bottle_holder.FCStd">source/spray_bottle_holder.FCStd</a>
+    </td>
+    <td>
+        <img src="img/previews/spray_bottle_holder.png" alt="img/previews/spray_bottle_holder.png" width="200"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+        <a href="source/spray_bottle_holder_adapter.FCStd">source/spray_bottle_holder_adapter.FCStd</a>
+    </td>
+    <td>
+        <img src="img/previews/spray_bottle_holder_adapter.png" alt="img/previews/spray_bottle_holder_adapter.png" width="200"/>
+    </td>
+  </tr>
 </table>
 
 ## 3D - Files
+* [3d/soap_holder-Body.stl](3d/soap_holder-Body.stl)
+* [3d/spray_bottle_holder-Body.stl](3d/spray_bottle_holder-Body.stl)
+* [3d/spray_bottle_holder_adapter-Body.stl](3d/spray_bottle_holder_adapter-Body.stl)
 
 ## GCode - Files
 NONE

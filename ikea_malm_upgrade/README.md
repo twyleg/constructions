@@ -57,10 +57,26 @@ TODO.
   </tr>
   <tr>
     <td>
+        <a href="source/slide_500.FCStd">source/slide_500.FCStd</a>
+    </td>
+    <td>
+        <img src="img/previews/slide_500.png" alt="img/previews/slide_500.png" width="200"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
         <a href="source/slide_alu_profile.FCStd">source/slide_alu_profile.FCStd</a>
     </td>
     <td>
         <img src="img/previews/slide_alu_profile.png" alt="img/previews/slide_alu_profile.png" width="200"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+        <a href="source/slide_alu_profile_front_rear.FCStd">source/slide_alu_profile_front_rear.FCStd</a>
+    </td>
+    <td>
+        <img src="img/previews/slide_alu_profile_front_rear.png" alt="img/previews/slide_alu_profile_front_rear.png" width="200"/>
     </td>
   </tr>
 </table>
