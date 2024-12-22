@@ -18,6 +18,14 @@ Room plan of my utility room
   </tr>
   <tr>
     <td>
+        <a href="source/hook.FCStd">source/hook.FCStd</a>
+    </td>
+    <td>
+        <img src="img/previews/hook.png" alt="img/previews/hook.png" width="200"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
         <a href="source/item_40x40x100.FCStd">source/item_40x40x100.FCStd</a>
     </td>
     <td>
@@ -120,12 +128,22 @@ Room plan of my utility room
         <img src="img/previews/spray_bottle_holder_adapter.png" alt="img/previews/spray_bottle_holder_adapter.png" width="200"/>
     </td>
   </tr>
+  <tr>
+    <td>
+        <a href="source/spray_bottle_holder_hook.FCStd">source/spray_bottle_holder_hook.FCStd</a>
+    </td>
+    <td>
+        <img src="img/previews/spray_bottle_holder_hook.png" alt="img/previews/spray_bottle_holder_hook.png" width="200"/>
+    </td>
+  </tr>
 </table>
 
 ## 3D - Files
+* [3d/hook-Body.stl](3d/hook-Body.stl)
 * [3d/soap_holder-Body.stl](3d/soap_holder-Body.stl)
 * [3d/spray_bottle_holder-Body.stl](3d/spray_bottle_holder-Body.stl)
 * [3d/spray_bottle_holder_adapter-Body.stl](3d/spray_bottle_holder_adapter-Body.stl)
+* [3d/spray_bottle_holder_hook-Body.stl](3d/spray_bottle_holder_hook-Body.stl)
 
 ## GCode - Files
 NONE

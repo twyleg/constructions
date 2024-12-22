@@ -81,6 +81,30 @@ TODO.
   </tr>
   <tr>
     <td>
+        <a href="source/drill_template_assembly.FCStd">source/drill_template_assembly.FCStd</a>
+    </td>
+    <td>
+        <img src="img/previews/drill_template_assembly.png" alt="img/previews/drill_template_assembly.png" width="200"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+        <a href="source/drill_template_back.FCStd">source/drill_template_back.FCStd</a>
+    </td>
+    <td>
+        <img src="img/previews/drill_template_back.png" alt="img/previews/drill_template_back.png" width="200"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+        <a href="source/drill_template_front.FCStd">source/drill_template_front.FCStd</a>
+    </td>
+    <td>
+        <img src="img/previews/drill_template_front.png" alt="img/previews/drill_template_front.png" width="200"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
         <a href="source/front_360x700x104.FCStd">source/front_360x700x104.FCStd</a>
     </td>
     <td>

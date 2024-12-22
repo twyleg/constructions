@@ -104,6 +104,18 @@
   </tr>
   <tr>
     <td>
+        <b>Name:</b> <a href="gridfinity/README.md">gridfinity</a></br>
+        <b>Description:</b> TODO.</br>
+        <b>Tags:</b>
+        <ul>
+        </ul>
+    </td>
+    <td>
+    <a href="gridfinity/README.md"><img src="gridfinity/img/poc_0.jpg" alt="gridfinity/img/poc_0.jpg" width="400"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
         <b>Name:</b> <a href="ikea_alex_drawer_inlets/README.md">IKEA Alex Drawer Inlets</a></br>
         <b>Description:</b> Tool inlets for IKEA Alex drawers</br>
         <b>Tags:</b>
