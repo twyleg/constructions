@@ -3,14 +3,22 @@
 [https://www.thingiverse.com/thing:0](https://www.thingiverse.com/thing:0)
 
 
-![thumbnail image](img/PXL_20240917_065043201.jpg)
+![thumbnail image](img/poc_0.jpg)
 
 
 TODO.
 
 ## Images
-[<img src="img/PXL_20240917_065043201.jpg" alt="img/PXL_20240917_065043201.jpg" width="200"/>](img/PXL_20240917_065043201.jpg)
-[<img src="img/PXL_20240917_065606473.jpg" alt="img/PXL_20240917_065606473.jpg" width="200"/>](img/PXL_20240917_065606473.jpg)
+[<img src="img/poc_0.jpg" alt="img/poc_0.jpg" width="200"/>](img/poc_0.jpg)
+[<img src="img/poc_1.jpg" alt="img/poc_1.jpg" width="200"/>](img/poc_1.jpg)
+[<img src="img/poc_2.jpg" alt="img/poc_2.jpg" width="200"/>](img/poc_2.jpg)
+[<img src="img/poc_3.jpg" alt="img/poc_3.jpg" width="200"/>](img/poc_3.jpg)
+[<img src="img/poc_4.jpg" alt="img/poc_4.jpg" width="200"/>](img/poc_4.jpg)
+[<img src="img/poc_5.jpg" alt="img/poc_5.jpg" width="200"/>](img/poc_5.jpg)
+[<img src="img/poc_6.jpg" alt="img/poc_6.jpg" width="200"/>](img/poc_6.jpg)
+[<img src="img/poc_7.jpg" alt="img/poc_7.jpg" width="200"/>](img/poc_7.jpg)
+[<img src="img/poc_8.jpg" alt="img/poc_8.jpg" width="200"/>](img/poc_8.jpg)
+[<img src="img/poc_9.jpg" alt="img/poc_9.jpg" width="200"/>](img/poc_9.jpg)
 
 ## Source - Files
 

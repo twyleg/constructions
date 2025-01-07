@@ -15,7 +15,7 @@
         </ul>
     </td>
     <td>
-    <a href="bicycle_shed/README.md"><img src="bicycle_shed/img/PXL_20240917_065043201.jpg" alt="bicycle_shed/img/PXL_20240917_065043201.jpg" width="400"/></a>
+    <a href="bicycle_shed/README.md"><img src="bicycle_shed/img/poc_0.jpg" alt="bicycle_shed/img/poc_0.jpg" width="400"/></a>
     </td>
   </tr>
   <tr>
@@ -129,7 +129,7 @@
         </ul>
     </td>
     <td>
-    <a href="ikea_alex_drawer_inlets/README.md"><img src=".resources/img/no_image_available.png" alt="no image available" width="400"/></a>
+    <a href="ikea_alex_drawer_inlets/README.md"><img src="ikea_alex_drawer_inlets/img/poc_screwdrivers_inlet_0.jpg" alt="ikea_alex_drawer_inlets/img/poc_screwdrivers_inlet_0.jpg" width="400"/></a>
     </td>
   </tr>
   <tr>
@@ -282,20 +282,6 @@
   </tr>
   <tr>
     <td>
-        <b>Name:</b> <a href="spanner_rack/README.md">Spanner Rack</a></br>
-        <b>Description:</b> WIP: Spanner rack.</br>
-        <b>Tags:</b>
-        <ul>
-            <li><a href="https://www.thingiverse.com/tag:Tools"><img src="https://img.shields.io/badge/Tools-024c73" alt="Tools"/></a></li>
-            <li><a href="https://www.thingiverse.com/tag:Spanner_Rack"><img src="https://img.shields.io/badge/Spanner_Rack-024c73" alt="Spanner Rack"/></a></li>
-        </ul>
-    </td>
-    <td>
-    <a href="spanner_rack/README.md"><img src=".resources/img/no_image_available.png" alt="no image available" width="400"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td>
         <b>Name:</b> <a href="spirit_level_holder/README.md">Spirit Level Holder</a></br>
         <b>Description:</b> Highly customized holder for my spirit levels in my workshop.</br>
         <b>Tags:</b>
@@ -368,7 +354,7 @@
         </ul>
     </td>
     <td>
-    <a href="utility_room/README.md"><img src=".resources/img/no_image_available.png" alt="no image available" width="400"/></a>
+    <a href="utility_room/README.md"><img src="utility_room/img/poc_0.jpg" alt="utility_room/img/poc_0.jpg" width="400"/></a>
     </td>
   </tr>
   <tr>

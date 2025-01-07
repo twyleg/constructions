@@ -9,10 +9,20 @@
 [https://www.thingiverse.com/thing:0](https://www.thingiverse.com/thing:0)
 
 
+![thumbnail image](img/poc_screwdrivers_inlet_0.jpg)
+
 
 Tool inlets for IKEA Alex drawers
 
 ## Images
+[<img src="img/poc_screwdrivers_inlet_0.jpg" alt="img/poc_screwdrivers_inlet_0.jpg" width="200"/>](img/poc_screwdrivers_inlet_0.jpg)
+[<img src="img/poc_screwdrivers_inlet_1.jpg" alt="img/poc_screwdrivers_inlet_1.jpg" width="200"/>](img/poc_screwdrivers_inlet_1.jpg)
+[<img src="img/poc_screwdrivers_inlet_2.jpg" alt="img/poc_screwdrivers_inlet_2.jpg" width="200"/>](img/poc_screwdrivers_inlet_2.jpg)
+[<img src="img/poc_screwdrivers_inlet_3.jpg" alt="img/poc_screwdrivers_inlet_3.jpg" width="200"/>](img/poc_screwdrivers_inlet_3.jpg)
+[<img src="img/poc_screwdrivers_inlet_4.jpg" alt="img/poc_screwdrivers_inlet_4.jpg" width="200"/>](img/poc_screwdrivers_inlet_4.jpg)
+[<img src="img/poc_screwdrivers_inlet_5.jpg" alt="img/poc_screwdrivers_inlet_5.jpg" width="200"/>](img/poc_screwdrivers_inlet_5.jpg)
+[<img src="img/poc_screwdrivers_inlet_6.jpg" alt="img/poc_screwdrivers_inlet_6.jpg" width="200"/>](img/poc_screwdrivers_inlet_6.jpg)
+[<img src="img/poc_screwdrivers_inlet_7.jpg" alt="img/poc_screwdrivers_inlet_7.jpg" width="200"/>](img/poc_screwdrivers_inlet_7.jpg)
 
 ## Source - Files
 
@@ -21,19 +31,15 @@ Tool inlets for IKEA Alex drawers
     <th>Source file</th>
     <th>Preview</th>
   </tr>
-  <tr>
-    <td>
-        <a href="source/test.FCStd">source/test.FCStd</a>
-    </td>
-    <td>
-        <img src="img/previews/test.png" alt="img/previews/test.png" width="200"/>
-    </td>
-  </tr>
 </table>
 
 ## 3D - Files
-* [3d/ikea-alex-drawer-inlet-1-Body.stl](3d/ikea-alex-drawer-inlet-1-Body.stl)
-* [3d/ikea-alex-drawer-inlet-2-Body.stl](3d/ikea-alex-drawer-inlet-2-Body.stl)
+* [3d/inlet_measuring-Slice.0.0.stl](3d/inlet_measuring-Slice.0.0.stl)
+* [3d/inlet_measuring-Slice.0.1.stl](3d/inlet_measuring-Slice.0.1.stl)
+* [3d/inlet_measuring-Slice.1.0.stl](3d/inlet_measuring-Slice.1.0.stl)
+* [3d/inlet_measuring-Slice.1.1.stl](3d/inlet_measuring-Slice.1.1.stl)
+* [3d/inlet_measuring-Slice.2.0.stl](3d/inlet_measuring-Slice.2.0.stl)
+* [3d/inlet_measuring-Slice.2.1.stl](3d/inlet_measuring-Slice.2.1.stl)
 
 ## GCode - Files
 NONE
