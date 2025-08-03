@@ -40,6 +40,7 @@ Tool inlets for IKEA Alex drawers
 * [3d/inlet_measuring-Slice.1.1.stl](3d/inlet_measuring-Slice.1.1.stl)
 * [3d/inlet_measuring-Slice.2.0.stl](3d/inlet_measuring-Slice.2.0.stl)
 * [3d/inlet_measuring-Slice.2.1.stl](3d/inlet_measuring-Slice.2.1.stl)
+* [3d/inlet_office_utils-Slice.4.stl](3d/inlet_office_utils-Slice.4.stl)
 
 ## GCode - Files
 NONE

@@ -93,6 +93,7 @@ TODO.
 * [3d/custom_grid_3x4_offset_2x6mm-Body.stl](3d/custom_grid_3x4_offset_2x6mm-Body.stl)
 * [3d/custom_grid_4x4-Body.stl](3d/custom_grid_4x4-Body.stl)
 * [3d/custom_grid_4x4_offset_0x6mm-Body.stl](3d/custom_grid_4x4_offset_0x6mm-Body.stl)
+* [3d/inlet_base_light-Body.stl](3d/inlet_base_light-Body.stl)
 
 ## GCode - Files
 NONE
